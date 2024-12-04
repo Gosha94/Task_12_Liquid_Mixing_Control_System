@@ -46,6 +46,9 @@ This setup ensures precise control over the process, achieving the desired mixtu
    - The process continues in a cycle unless the `STOP` button is pressed.
    - Pressing `STOP` halts the process and ensures all valves are securely closed.
 
+## Visualization
+![Mixing Tank Visualization](img/Visualization.png)
+
 ## How to Use
 1. Press `START` to begin the process.
 2. Monitor the system via connected sensors and the PLC interface.
