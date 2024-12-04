@@ -1,0 +1,7 @@
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.opt
+
+/Boot/
